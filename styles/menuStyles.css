@@ -6,11 +6,11 @@
 
 h1{
     padding: 30px;
-    color: #fff;
+    color: #ffffff
 }
 
 body{
-    background-color: #000;
+    background-color: #000000;
 }
 
 nav{
@@ -35,7 +35,7 @@ nav ul li a{
     font-size: 14px;
     font-family: Arial;
     color: #1e1e1e;
-    padding: 22px 14px;
+    padding: 21px 14px;
 }
 
 nav ul li ul{
@@ -62,4 +62,5 @@ nav ul li ul li a{
 nav ul li a:hover{
     background-color: #f3f3f3;
     color: red;
+    text-decoration: underline;
 }
